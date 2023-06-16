@@ -1,5 +1,5 @@
 
-uint16_t    Ro = 10000, 
+int         Ro = 10000, 
             Vin = 5, 
             Beta = 3978, 
             Vout = 0, 
